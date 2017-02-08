@@ -30,7 +30,9 @@ Add `cocoascript` to the plugins section of your `.eslintrc` configuration file.
 }
 ```
 
+# License
 
+MIT © [Andrew Holloway](mailto:booc0mtaco@gmail.com)
 
 
 

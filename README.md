@@ -1,6 +1,10 @@
 # eslint-plugin-cocoascript
 
-Syntax Highlighting for JS-flavored CocoaScript
+Syntax Highlighting for JS-flavored CocoaScript. CocoaScript is used for [Sketch](http://sketchapp.com/) plugins, and provides access to JavaScript and Cocoa resources.
+
+Works with any IDE that supports ESLint integration, like [Atom](http://atom.io/) and others.
+
+More info at : <https://www.npmjs.com/package/eslint-plugin-cocoascript>
 
 ## Installation
 
